@@ -12,7 +12,7 @@ Github项目： https://github.com/xsxtw//ProxyPoolxSocks
 
 博客: https://blog.xsx.tw	
 
-本文地址： [[https://www.anyiblog.top/2023/05/15/20230515/](https://blog.xsx.tw/hack/789/)](https://blog.xsx.tw/hack/789/)
+本文地址： [[https://blog.xsx.tw/hack/789/]](https://blog.xsx.tw/hack/789/)
 
 ProxyPoolxSocks 是一个代理池服务端工具，可以导入自定义的socks节点，其作用是利用多个代理IP绕过WAF防火墙。同时它支持代理池之间的迭代更新和切换。
 
