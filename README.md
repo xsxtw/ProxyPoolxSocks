@@ -2,21 +2,21 @@
 
 ![](http://cdn.anyiblog.top/product/proxypoolsocks/cover/logo_min.png)
 
-Github项目： https://github.com/Anyyy111/ProxyPoolxSocks
+Github项目： https://github.com/xsxtw//ProxyPoolxSocks
 
 声明：本工具仅供以安全为目的的学习交流使用，任何人不得将其用于非法用途以及盈利等目的，否则后果自行承担。
 
 ## 0x01 介绍
 
-作者: Anyyy
+作者: xsx
 
-博客: https://www.anyiblog.top	
+博客: https://blog.xsx.tw	
 
-本文地址： https://www.anyiblog.top/2023/05/15/20230515/
+本文地址： [[https://www.anyiblog.top/2023/05/15/20230515/](https://blog.xsx.tw/hack/789/)](https://blog.xsx.tw/hack/789/)
 
 ProxyPoolxSocks 是一个代理池服务端工具，可以导入自定义的socks节点，其作用是利用多个代理IP绕过WAF防火墙。同时它支持代理池之间的迭代更新和切换。
 
-当前处于测试阶段，任何问题欢迎向我发送邮件：anyiguys@qq.com 或向我提交issue
+当前处于测试阶段，任何问题欢迎向我发送邮件：hackxsxtw@gmail.com 或向我提交issue
 
 工具支持Windows和Linux系统。
 
@@ -27,7 +27,7 @@ ProxyPoolxSocks 是一个代理池服务端工具，可以导入自定义的sock
 ### 服务端
 
 ```
-git clone https://github.com/Anyyy111/ProxyPoolxSocks.git
+git clone https://github.com/xsxtw/ProxyPoolxSocks.git
 cd ProxyPoolxSocks
 pip install -r requirements.txt
 python3 run.py
@@ -42,7 +42,7 @@ python3 run.py
 详细配置请参考 **0x04 使用说明**
 
 ```
-git clone https://github.com/Anyyy111/ProxyPoolxSocks.git
+git clone https://github.com/xsxtw/ProxyPoolxSocks.git
 cd ProxyPoolxSocks
 python3 Client-check/client.py
 ```
